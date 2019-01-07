@@ -1,0 +1,13 @@
+links.txt
+Created Mon Jan  7 10:28:33 AST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+GNU diff related links
+
+
+Links
+=====
+Is this a good way to create a patch?
+Unix & Linux
+https://unix.stackexchange.com/questions/162131/is-this-a-good-way-to-create-a-patch
