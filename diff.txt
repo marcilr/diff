@@ -1,0 +1,11 @@
+diff.txt
+Created Mon Jan  7 10:26:34 AST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+GNU diff - compare files line by line
+
+
+
+Used to compare files and generate patches
+
